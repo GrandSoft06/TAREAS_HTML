@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <section>
+        <h1>Aprendiendo a utilizar imágenes</h1>
+        <img src="Clash.webp" alt="CLASH ROYALE" width="1000" height="500">
+    </section>
+
+    <section>
+        <h1>Aprendiendo a utilizar los vídeos</h1>
+        <video controls loop autoplay muted width="300" height="300">
+        <source src="RECORD.mp4" type="video/mp4">
+        </video>
+        <source>
+    </section>
+
+    <section>
+        <h1>Aprendiendo a utilizar los audios</h1>
+        <audio autoplay controls loop >
+        <source src="The Castle.mp3">
+
+        </audio>
+    </section>
+</body>
+</html>
